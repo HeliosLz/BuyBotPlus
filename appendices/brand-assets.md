@@ -5,14 +5,29 @@
 
 ## 🌈 LOGO AND ICONS
 
-![pic-2](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/7ff496dd-5a93-4bba-bf96-09bd4ee90639)
+~~~
 
-![pic-8](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/f90ea8f0-322c-4f5a-a7fd-1daf51f36560)
+(https://github.com/HeliosLz/BuyBotPlus/assets/131566676/7ff496dd-5a93-4bba-bf96-09bd4ee90639)
+
+~~~
+
+~~~
+
+(https://github.com/HeliosLz/BuyBotPlus/assets/131566676/f90ea8f0-322c-4f5a-a7fd-1daf51f36560)
+
+~~~
+
+~~~
 
 ![LOGO2360_1800](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/520e1ed4-ae4a-45df-b5c7-f4ba2d4aa659)
 
+~~~
+
+~~~
+
 ![机器人1800_2360](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/2e0f0e22-525b-4535-b73d-ac56830101ff)
 
+~~~
 
 ## ❗Dos and Don’ts <a href="#dos-and-donts" id="dos-and-donts"></a>
 

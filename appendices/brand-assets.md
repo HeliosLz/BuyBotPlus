@@ -1,16 +1,18 @@
----
-description: Download BuyBotPlus logos here.
----
+
+![pic-3](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/acf7ae22-4126-400f-a240-4a0ed5267731)
 
 # 🎨 Brand Assets
 
 ## 🌈 LOGO AND ICONS
 
-{% file src="../.gitbook/assets/机器人1800_2360 (1).png" %}
+![pic-2](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/7ff496dd-5a93-4bba-bf96-09bd4ee90639)
 
-{% file src="../.gitbook/assets/pic-2 (1).png" %}
+![pic-8](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/f90ea8f0-322c-4f5a-a7fd-1daf51f36560)
 
-{% file src="../.gitbook/assets/pic-8 (1).png" %}
+![LOGO2360_1800](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/520e1ed4-ae4a-45df-b5c7-f4ba2d4aa659)
+
+![机器人1800_2360](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/2e0f0e22-525b-4535-b73d-ac56830101ff)
+
 
 ## ❗Dos and Don’ts <a href="#dos-and-donts" id="dos-and-donts"></a>
 

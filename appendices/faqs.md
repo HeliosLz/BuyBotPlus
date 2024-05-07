@@ -1,16 +1,5 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
+![pic-1](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/d89500d5-42a8-487e-9bef-b50c3867a6a1)
 
 # ❓ FAQs
 

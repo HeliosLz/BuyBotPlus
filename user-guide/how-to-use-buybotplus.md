@@ -1,21 +1,5 @@
----
-cover: ../.gitbook/assets/LOGO1800_2360.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
+![pic-2](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/de93bc5c-4720-4dd2-9033-4bc56cb89b45)
 
 # 🤖 How to Use BuyBotPlus
 

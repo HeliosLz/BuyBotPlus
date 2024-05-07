@@ -7,10 +7,10 @@
 
 Welcome to BuyBotPlus, the revolutionary platform that empowers users to trade effortlessly, track market trends, and discover lucrative opportunities within the rapidly evolving cryptocurrency landscape. Built on Telegram's extensive infrastructure, BuyBotPlus offers a comprehensive suite of features designed to redefine the DeFi experience for traders worldwide.
 
-\\\
+~~~
 
 **Slogan："Trade Smarter, Earn Bigger, Choose BuyBotPlus, Your Crypto Companion!"**
 
-\\\
+~~~
 
 Stay connected and on top of the market with BuyBotPlus. Now, let’s take a closer look at why you should choose BuyBotPlus.✨✨✨

@@ -1,22 +1,5 @@
----
-description: Roadmap
-cover: ../.gitbook/assets/pic-5-1800_2360.png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
+![pic-5](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/3a3a82f4-92c9-4cec-8e94-632f523742cf)
 
 # 🗺️ Roadmap
 

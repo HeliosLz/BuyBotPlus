@@ -7,7 +7,7 @@
 🎉 **BuyBotPlus is here**! We have released our Telegram Bot to the public. Watch the following 2-minute video to learn about the features of BuyBotPlus.
 {% endhint %}
 
-{% embed url="https://youtu.be/Tof2KMppu2U?si=eeN8koZhkmjvFPXR" %}
+[{% embed url="https://youtu.be/Tof2KMppu2U?si=eeN8koZhkmjvFPXR" %}](https://www.youtube.com/watch?v=Tof2KMppu2U)
 
 1️⃣ **Access Your Telegram Group:**
 

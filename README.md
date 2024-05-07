@@ -9,7 +9,7 @@ Welcome to BuyBotPlus, the revolutionary platform that empowers users to trade e
 
 ~~~
 
-**Slogan**："Trade Smarter, Earn Bigger, Choose BuyBotPlus, Your Crypto Companion!"
+Slogan："Trade Smarter, Earn Bigger, Choose BuyBotPlus, Your Crypto Companion!"
 
 ~~~
 

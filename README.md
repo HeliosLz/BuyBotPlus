@@ -1,21 +1,5 @@
----
-cover: .gitbook/assets/pic-8 (1).png
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+
+![pic-8](https://github.com/HeliosLz/BuyBotPlus/assets/131566676/50946372-f351-4260-8b9b-5786894784e8)
 
 # Welcome to BuyBotPlus
 
